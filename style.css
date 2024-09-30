@@ -1,5 +1,16 @@
+:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-black-color: #00F4BF;
+}
+
+
+
+
+
+
 body {
-    background: url(img/bg-desktop.webp)
+    background-image: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
 
@@ -28,7 +39,7 @@ body {
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
-    font-size: 1vw;
+    font-size: 0.6vw;
 
 }
 
